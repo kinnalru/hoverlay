@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+      <name><![CDATA[hoverlay]]></name>
+      <description><![CDATA[Home overlay with some custom packages]]></description>
+      <homepage>https://github.com/kinnalru/hoverlay</homepage>
+      <owner>
+        <email>kinnalru at gmail dot com</email>
+      </owner>
+      <source type="git">git@github.com:kinnalru/hoverlay.git</source>
+      <feed>https://github.com/kinnalru/hoverlay/commits/master.atom</feed>
+  </repo>
+</repositories>
