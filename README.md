@@ -1,7 +1,13 @@
-﻿hoverlay
+﻿Gentoo hoverlay
 ========
 
-Home overlay with some custom packages
+Home gentoo overlay with some custom packages
+
+Add this to /etc/layman/layman.conf
+
+	overlays  : http://www.gentoo.org/proj/en/overlays/repositories.xml
+	            http://github.com/kinnalru/hoverlay/raw/master/overlay.xml
+
 
 Package Tree
 ------------
