@@ -36,7 +36,6 @@ RDEPEND="${DEPEND}
 RESTRICT="test"
 # see bug 366471
 
-PATCHES=( "${FILESDIR}/${P}-kdevplatform-without-qjson.patch" )
 
 src_configure() {
 	mycmakeargs=(
