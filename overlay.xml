@@ -8,7 +8,7 @@
       <owner>
         <email>kinnalru at gmail dot com</email>
       </owner>
-      <source type="git">git@github.com:kinnalru/hoverlay.git</source>
+      <source type="git">http://github.com/kinnalru/hoverlay.git</source>
       <feed>https://github.com/kinnalru/hoverlay/commits/master.atom</feed>
   </repo>
 </repositories>
