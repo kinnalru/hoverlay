@@ -23,7 +23,7 @@ LICENSE="GPL-2"
 IUSE="debug"
 
 DEPEND="
-	>=dev-util/kdevplatform-1.4.60
+	dev-util/kdevplatform
 "
 RDEPEND="
 	${DEPEND}
